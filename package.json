@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-torii-azure-provider",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ember CLI addon for Azure active directory authentication with Torii.",
   "directories": {
     "doc": "doc",
