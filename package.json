@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-torii-azure-provider",
-  "version": "1.0.1",
-  "description": "Ember CLI addon for Azure active directory authentication with Torii.",
+  "version": "1.0.0",
+  "description": "The default blueprint for ember-cli addons.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -26,7 +26,6 @@
     "ember-cli-dependency-checker": "0.0.7",
     "ember-cli-qunit": "0.3.8",
     "ember-cli-uglify": "1.0.1",
-    "ember-cli-simple-auth": "^0.7.3",
     "ember-export-application-global": "^1.0.2",
     "express": "^4.8.5",
     "glob": "^4.0.5",
@@ -35,8 +34,7 @@
   "keywords": [
     "ember-addon",
     "torii",
-    "authentication",
-    "azure"
+    "authentication"
   ],
   "ember-addon": {
     "configPath": "tests/dummy/config"
