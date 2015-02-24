@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-torii-azure-provider",
   "version": "1.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "A Torii provider for Azure active directory authentication.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -17,7 +17,7 @@
   },
   "author": "Greg Hurlman",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "broccoli-asset-rev": "^2.0.0",
     "ember-cli": "0.2.0-beta.1",
     "ember-cli-babel": "^4.0.0",
@@ -34,7 +34,8 @@
   "keywords": [
     "ember-addon",
     "torii",
-    "authentication"
+    "authentication",
+    "azure"
   ],
   "ember-addon": {
     "configPath": "tests/dummy/config"
