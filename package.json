@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-torii-azure-provider",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Torii provider for Azure active directory authentication.",
   "directories": {
     "doc": "doc",
