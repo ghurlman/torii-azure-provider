@@ -2,7 +2,7 @@ import Oauth2 from 'torii/providers/oauth2-code';
 import {configurable} from 'torii/configuration';
 
 /**
- * This class implements authentication against Github
+ * This class implements authentication against Azure
  * using the OAuth2 authorization flow in a popup window.
  * @class
  */
