@@ -19,7 +19,7 @@ $ ember install:addon ember-cli-torii-azure-provider
 $ npm install
 ```
 
-Now, edit `/config/environment.js` to add your Torii provider configuration, placing your Azure Client ID in the designated spot. If you need help creating an Azure app and getting that ID, [follow MSDN guidance] (https://msdn.microsoft.com/library/azure/dn132599.aspx#BKMK_Adding):
+Now, edit `/config/environment.js` to add your Torii provider configuration, placing your Azure Client ID in the designated spot. If you need help creating an Azure app and getting that ID, [follow MSDN guidance](https://msdn.microsoft.com/library/azure/dn132599.aspx#BKMK_Adding):
 
 ```
 module.exports = function(environment) {
