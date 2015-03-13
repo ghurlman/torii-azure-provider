@@ -1,4 +1,4 @@
-# Ember CLI Torri Azure Provider (ECTAP)
+# Ember CLI Torri Azure Provider (ECTAP) [![Code Climate](https://codeclimate.com/github/ghurlman/torii-azure-provider/badges/gpa.svg)](https://codeclimate.com/github/ghurlman/torii-azure-provider)
 
 ### TLDR
 
