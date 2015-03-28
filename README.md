@@ -12,7 +12,7 @@ In order to use ECTAP, you'll need an Ember CLI app (if you already have one, sk
 $ ember new my-new-app
 ```
 
-Then, add ECTAP to your project; it will add Torii for you as a dependency:
+Then, add Torii and ECTAP to your project:
 
 ```
 $ ember install:addon torii
