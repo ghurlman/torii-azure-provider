@@ -15,7 +15,11 @@ var AzureOauth2 = Oauth2.extend({
 
   responseParams: ['code','session_state','state'],
 
-  state: 'STATE',
+  state: configurable('state', function(){
+    // A hack that allows redirectUri to be configurable
+    // but default to the superclass
+    return 'STATE';
+  }),
 
   response_type: "code",
 
