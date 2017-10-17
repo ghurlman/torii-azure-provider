@@ -1,4 +1,4 @@
-# Ember CLI Torri Azure Provider (ECTAP) [![Code Climate](https://codeclimate.com/github/ghurlman/torii-azure-provider/badges/gpa.svg)](https://codeclimate.com/github/ghurlman/torii-azure-provider)
+# Ember CLI Torii Azure Provider (ECTAP) [![Code Climate](https://codeclimate.com/github/ghurlman/torii-azure-provider/badges/gpa.svg)](https://codeclimate.com/github/ghurlman/torii-azure-provider)
 
 ### TLDR
 
@@ -15,8 +15,8 @@ $ ember new my-new-app
 Then, add Torii and ECTAP to your project:
 
 ```
-$ ember install:addon torii
-$ ember install:addon ember-cli-torii-azure-provider
+$ ember install torii
+$ ember install ember-cli-torii-azure-provider
 ```
 
 Now, edit `/config/environment.js` to add your Torii provider configuration, placing your Azure Client ID in the designated spot. If you need help creating an Azure app and getting that ID, [follow MSDN guidance](https://msdn.microsoft.com/library/azure/dn132599.aspx#BKMK_Adding):

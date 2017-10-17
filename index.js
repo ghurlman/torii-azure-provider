@@ -1,6 +1,6 @@
-/* jshint node: true */
+/* eslint-env node */
 'use strict';
 
 module.exports = {
-  name: 'ember-cli-torii-azure-provider'
+  name: 'torii-azure-provider'
 };
